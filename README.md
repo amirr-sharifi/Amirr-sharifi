@@ -38,7 +38,7 @@ Modern weather application:
 ## 📫 Contact
 - **LinkedIn:** soon
 - **Email:** amirSharifiDev@gmail.com
-- **Telegram :** [@its.amirShatifi](https://t.me/its_amirsharifi)
+- **Telegram :** [@its_amirShatifi](https://t.me/its_amirsharifi)
 
 ---
 *Feel free to explore my repositories and connect with me for collaboration or opportunities.*
